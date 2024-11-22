@@ -173,7 +173,8 @@ int main(void)
 ```
 
 ## Output screen shots of proteus  :
-<img src="https://github.com/user-attachments/assets/8db27da4-c311-48af-8045-aefeced71b8b" width=50%>
+![ww](https://github.com/user-attachments/assets/e409460e-cfd2-4d85-b290-85633aaf30f8)
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 <img src="https://github.com/user-attachments/assets/cbfb49ba-6d9a-4583-b5d9-d168aa9fd2c5" width=50%>
